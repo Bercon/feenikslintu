@@ -1,0 +1,5 @@
+build/
+__pycache__/
+build_executable_graphics/
+*.blend1
+.DS_Store
